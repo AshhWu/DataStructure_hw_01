@@ -1,4 +1,4 @@
-# DataStructure_hw_01
+# 2015DataStructure_hw_01
 Use a sparse matrix to represent a two-variable polynomial's coefficients.
 I just release a header file, which you can put the main function yourself.
 The input and output example:
